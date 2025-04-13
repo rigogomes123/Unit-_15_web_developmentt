@@ -81,6 +81,14 @@ Actual result: The user is able to fill in the information.
 
 TC07:
 
+Description: To check if each trainee profile loads correctly.
+
+Excpeted result: Each profile loads correctly showing images and their biograpghy
+
+Actual result:Each profile loads correctly showing images and their biograpghy
+
+TC08:
+
 
 
 
