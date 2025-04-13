@@ -89,6 +89,27 @@ Actual result:Each profile loads correctly showing images and their biograpghy
 
 TC08:
 
+Description:
+
+Expected result:
+
+Actual result:
+
+TC09:
+
+Description
+
+Excepeted result:
+
+Actual result:
+
+TC10:
+
+Desciption:
+
+Expected result:
+
+Actual: result:
 
 
 
