@@ -55,9 +55,32 @@ Actual result: The "Our servies" page DOES NOT load, and it doesn't work(the pag
 
 TC04:
 
-Descriotion: To click on the 2 options on the job role page:
+Description: 
 
-Expected result:
+Description: To click on the 2 options on the job role page.
+
+Expected result: Both of the options are viible and fully function.
+
+Actual result:  Both of the options are viible and fully function.
+
+TC05: 
+
+Description: Submit application from with valid input.
+
+Excpected result: Application form is sent, alongside a "your application has been sent" message.
+
+Actual result:  "This page isn't working" message is shown.
+
+TC06:
+
+Description: User if able to fill the specification below the "Apply Now" section.
+
+Expected result: The user is able to fill in the specification.
+
+Actual result: The user is able to fill in the information.
+
+TC07:
+
 
 
 
