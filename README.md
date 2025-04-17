@@ -3,7 +3,6 @@
 WireFrame:
 
 Data flow diagram(DFD):
-<img width="377" alt="image" src="https://github.com/user-attachments/assets/ed197843-d61d-451b-a8ef-074680662c8e" />
 
 
 website designs reviews:
