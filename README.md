@@ -105,11 +105,11 @@ Actual result: Worked as expected
 
 TC10:
 
-Desciption:
+Desciption: To check if hover effect works in the logo image.
 
-Expected result:
+Expected result: The hover effect will work as expected.
 
-Actual: result:
+Actual: result: The hover effect worked as expected.
 
 
 
