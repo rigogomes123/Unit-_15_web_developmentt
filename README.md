@@ -89,19 +89,19 @@ Actual result:Each profile loads correctly showing images and their biograpghy
 
 TC08:
 
-Description:
+Description: All images have attributes
 
-Expected result:
+Expected result: Every image has the correct attributes
 
-Actual result:
+Actual result: Worked as expected.
 
-TC09:
+TC09:  
 
-Description
+Description: Logo and header visibility 
 
-Excepeted result:
+Excepeted result: Consintly visbile on all pages
 
-Actual result:
+Actual result: Worked as expected
 
 TC10:
 
