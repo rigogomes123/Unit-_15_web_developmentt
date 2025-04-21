@@ -2,7 +2,10 @@
 
 WireFrame:
 
-<img width="698" alt="image" src="https://github.com/user-attachments/assets/d10c1454-7315-404b-b57e-3133d45302c1" />
+Home page:
+
+<img width="444" alt="image" src="https://github.com/user-attachments/assets/d5c539ce-83fb-4b0f-9cf3-7ab7b85cf8b3" />
+
 
 
 Data flow diagram(DFD):
