@@ -57,7 +57,7 @@ The response:
 <img width="715" alt="image" src="https://github.com/user-attachments/assets/13617c3f-d158-40c5-a672-91a3e0f0310f" />
 
 
-First website produced:
+First website produced (before feedback):
 
 home page created(1st part):
 
@@ -111,6 +111,7 @@ Rosa DeCastello profile Page:
 
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/0335654e-95d0-4996-9b4d-6487e5393222" />
 
+Secound website (after feedback):
 
 Test plan:
 
