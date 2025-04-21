@@ -111,7 +111,42 @@ Rosa DeCastello profile Page:
 
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/0335654e-95d0-4996-9b4d-6487e5393222" />
 
-Secound website (after feedback):
+Secound wireframe (after feedback):
+
+A few minor changes were made for both the wireframe and the website:
+
+Home page:
+
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/cc1edf47-aec2-4817-b5ae-71b3189d5146" />
+
+Daniel leroy Page:
+
+<img width="469" alt="image" src="https://github.com/user-attachments/assets/afd376b7-1941-40bc-980f-9277627d6fa1" />
+
+Li Chang page:
+
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/041642a3-aa3c-40e2-af8e-c1db31de7796" />
+
+Rosa profile Page:
+
+<img width="466" alt="image" src="https://github.com/user-attachments/assets/22766b25-9b66-405a-bb77-8effdec3fe8b" />
+
+About us Page:
+
+<img width="488" alt="image" src="https://github.com/user-attachments/assets/d2407ed8-9158-4126-b361-a4603aec521d" />
+
+Careers Page:
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/1253b587-fb0a-414c-942e-885efe275da8" />
+
+Application form(web designer role):
+
+<img width="505" alt="image" src="https://github.com/user-attachments/assets/c1f1fe69-e39c-43f9-a1a0-8ee97104bc45" />
+
+Application form(web developer role):
+
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/d657862b-2277-436c-b62b-2b32c57302c2" />
+
 
 Test plan:
 
