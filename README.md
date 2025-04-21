@@ -10,6 +10,8 @@ website designs reviews:
 
 First website produced:
 
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/1fb475c6-907b-48f4-86bc-447655468026" />
+
 
 Test plan:
 
