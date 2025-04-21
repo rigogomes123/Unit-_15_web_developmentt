@@ -10,6 +10,10 @@ Careers Page:
 
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/0e143324-406c-4480-9caf-c0fb53959696" />
 
+insights Page:
+
+<img width="463" alt="image" src="https://github.com/user-attachments/assets/13f754c2-ef00-4110-a679-f867843e9999" />
+
 
 Data flow diagram(DFD):
 
