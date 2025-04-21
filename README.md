@@ -14,6 +14,18 @@ Insights Page:
 
 <img width="463" alt="image" src="https://github.com/user-attachments/assets/13f754c2-ef00-4110-a679-f867843e9999" />
 
+Li Chang page:
+
+<img width="409" alt="image" src="https://github.com/user-attachments/assets/abd8b807-50e6-4af9-8a2d-65beb22bb1ba" />
+
+Rosa DeCastello profile:
+
+<img width="455" alt="image" src="https://github.com/user-attachments/assets/c89c650e-a7fc-4060-806c-9c2ed93f61cf" />
+
+Daniel Leroy:
+
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/7277d73f-b16b-413c-a5cc-17b1254149c2" />
+
 
 Data flow diagram(DFD):
 
