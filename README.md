@@ -149,7 +149,11 @@ Application form(web developer role):
 
 Secound website produced (after feedback was produced):
 
+Home page:
 
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/b7b64379-156e-4f03-be81-d662af8e9405" />
+
+Only a few minor change/adjustments were made from the feedback I had received.
 
 Test plan:
 
