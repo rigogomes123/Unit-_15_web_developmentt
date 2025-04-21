@@ -26,6 +26,18 @@ Daniel Leroy:
 
 <img width="446" alt="image" src="https://github.com/user-attachments/assets/7277d73f-b16b-413c-a5cc-17b1254149c2" />
 
+View Position Page:
+
+<img width="442" alt="image" src="https://github.com/user-attachments/assets/f89e43af-9b7e-492f-9b51-db7cf23e9bf3" />
+
+Application Page:
+
+<img width="287" alt="image" src="https://github.com/user-attachments/assets/8dc56532-c8ae-4abb-b0d2-6e2a647cc7e5" />
+
+About us Page:
+
+<img width="407" alt="image" src="https://github.com/user-attachments/assets/cc22285b-5d37-4685-8417-2a65b9178590" />
+
 
 Data flow diagram(DFD):
 
