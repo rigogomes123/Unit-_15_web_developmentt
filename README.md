@@ -22,6 +22,19 @@ Home page created (2nd part):
 
 In the secound part of my home page, are the profile of the web trainees Daniel Leroy, Li Chang and Rosa DeCastello.
 
+Careers page:
+
+After i desighning the home page, I began to create nad code the "About Us" page, which tuened out as shown. 
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/d97b3892-1036-470f-a19e-390f23d7177e" />
+
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/5cd21e4b-7b35-4f67-bd27-58265f5ae5ed" />
+
+<img width="492" alt="image" src="https://github.com/user-attachments/assets/e089af46-ae90-481e-8be1-09289af35304" />
+
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/bf2d901c-a3b7-433a-86f1-bf80ecf44775" />
+
+
 Test plan:
 
 The types of testing I will be concfuction are the following:
