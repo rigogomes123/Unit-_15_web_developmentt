@@ -52,6 +52,10 @@ I have asked my peer/class mate "Austin Ukawanna" for feedback in my design(wire
 
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/babe4245-6346-4647-921d-e1cbc4e7e57e" />
 
+The response:
+
+<img width="715" alt="image" src="https://github.com/user-attachments/assets/13617c3f-d158-40c5-a672-91a3e0f0310f" />
+
 
 First website produced:
 
