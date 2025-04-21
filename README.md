@@ -48,6 +48,10 @@ Data flow diagram(DFD):
 
 website designs reviews:
 
+I have asked my peer/class mate "Austin Ukawanna" for feedback in my design(wireframme and DFD):
+
+<img width="712" alt="image" src="https://github.com/user-attachments/assets/babe4245-6346-4647-921d-e1cbc4e7e57e" />
+
 
 First website produced:
 
