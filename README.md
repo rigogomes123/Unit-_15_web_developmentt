@@ -147,6 +147,9 @@ Application form(web developer role):
 
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/d657862b-2277-436c-b62b-2b32c57302c2" />
 
+Secound website produced (after feedback was produced):
+
+
 
 Test plan:
 
