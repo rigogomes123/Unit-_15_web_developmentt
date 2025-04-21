@@ -10,11 +10,17 @@ website designs reviews:
 
 First website produced:
 
-home page created:
+home page created(1st part):
 
 <img width="948" alt="image" src="https://github.com/user-attachments/assets/1fb475c6-907b-48f4-86bc-447655468026" />
 
 I first began to create my main page of the the website, I orignally got my aspiration(layout) from a different web page which i found in the internet called "Shine Tech Software".
+
+Home page created (2nd part):
+
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/d60cf38f-a5bc-4bba-bacc-f865d55d52d3" />
+
+In the secound part of my home page, are the profile of the web trainees Daniel Leroy, Li Chang and Rosa DeCastello.
 
 Test plan:
 
