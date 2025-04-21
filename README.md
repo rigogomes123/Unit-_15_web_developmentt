@@ -36,6 +36,21 @@ After i desighning the home page, I began to create nad code the "About Us" page
 
 All the information used in the "About us "page. I copied and pasted from required files which were provied to me.
 
+Carrers Page:
+
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/cb9b2232-7280-440a-9035-f8f62beef509" />
+
+Careers page (Apply for web designer role):
+
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/08f741db-047c-47b1-a726-ea597b1d96e4" />
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/4037295e-7617-4a94-98e0-615a0c3a6546" />
+
+Careers Page (Apply for web developer role):
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/8339d619-0b4e-44aa-bcf4-f8b32e4a81b9" />
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/e4c9cab1-1d8b-42d2-86f8-e8e612d11e1c" />
+
+
 Test plan:
 
 The types of testing I will be concfuction are the following:
