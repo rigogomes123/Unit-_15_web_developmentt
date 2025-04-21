@@ -99,11 +99,11 @@ Careers Page (Apply for web developer role):
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/8339d619-0b4e-44aa-bcf4-f8b32e4a81b9" />
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/e4c9cab1-1d8b-42d2-86f8-e8e612d11e1c" />
 
-Daniel leroy profile Page:
+Daniel Leroy profile Page:
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/71be8a3c-0d32-4be2-ae8b-b63e4f175a18" />
 
-Li chang profile Page:
+Li Chang profile Page:
 
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/077bc461-27d3-4de0-a1c8-5405eca15fb7" />
 
