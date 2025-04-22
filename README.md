@@ -255,6 +255,11 @@ Expected result: The hover effect will work as expected.
 
 Actual: result: The hover effect worked as expected.
 
+Testing evidence:
+
+https://youtu.be/VaaNT4avjnI
+
+
 
 Justification:
 
