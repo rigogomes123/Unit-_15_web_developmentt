@@ -261,7 +261,20 @@ https://youtu.be/VaaNT4avjnI
 
 
 
-Justification:
+Justification how it met the client requirements:
+
+client requirementes:
+
+a profile of the company itself
+profiles of existing trainee web developers
+job specifications and required
+
+
+Design layout:
+
+colour choice:
+
+
 
 
 
