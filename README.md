@@ -268,11 +268,21 @@ client requirementes:
 a profile of the company itself
 profiles of existing trainee web developers
 job specifications and required
+an on line application form 
+links to a web development courses
 
 
 Design layout:
 
+Regarding the design layout I opt to imitate a webpage which i done previous resaerch on called "ShineTechsoftware" I chose this website beacuse it had key elmentes which I deciede to implmnets to my own website creation furthermore thet website was also tech related which inpirated me more.However I did not only use the website i pointed out as my only inspiration I also desighed other aspects by justing trying and figuring out what looks good and goes well with the webpage.
+
 colour choice:
+
+Regarding The colour choice in the website i choose the background colour to be mainly green beacuse It matched the colour of the company logo, this also relates to the client requirements because I implemented and added the company's logo to my website.
+
+Target Audience:
+
+The target audience for the site is people who have completed training courses or qualifications related to web development and are now looking for a job as a web developer.
 
 
 
