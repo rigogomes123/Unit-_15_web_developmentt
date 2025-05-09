@@ -293,3 +293,7 @@ imagery:
 User experience(UX):
 
 The simple and modern design of the website created with the user expreince and also client requiremnets in mind, made the website very easy to use, additionly the responsove features ensured a very smooth browsing expereince for any device that it is menat to be run on. Another aspect I would like to mention is where I got my inspiration from which was from another website which I had looked at.
+
+Functionality and features:
+
+The main reason that the website was produced was to meet the client requiremnets 
