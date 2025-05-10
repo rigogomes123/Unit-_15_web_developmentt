@@ -286,7 +286,16 @@ Colour scheme choice:
 
 Regarding The colour choice in the website i choose the background colour to be mainly green beacuse It matched the colour of the company logo, this also relates to the client requirements because I implemented and added the company's logo to my website.
 
+What I use:
+
+
 Typography:
+
+Inter is a modern, clean informal that is optimised for screen reading, which is why i chose it for the body text.I choose Playfair display for the headlines in order to establish a distinct visual hierachy and add a little refinemnet and contrast.
+
+What I used:
+
+
 
 imagery:
 
@@ -296,4 +305,6 @@ The simple and modern design of the website created with the user expreince and 
 
 Functionality and features:
 
-The main reason that the website was produced was to meet the client requiremnets 
+The main reason that the website was produced was to meet the client requiremnets, the features include an informative webpages which explain each quiery that user wants with some pages contain detail if neccesary whereas other contain simple and self explnatory detail.
+
+
