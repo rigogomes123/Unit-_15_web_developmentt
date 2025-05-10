@@ -294,7 +294,12 @@ Regarding the design layout I opt to imitate a webpage which i done previous res
 
 Colour scheme choice:
 
-Regarding The colour choice in the website i choose the background colour to be mainly green beacuse It matched the colour of the company logo, this also relates to the client requirements because I implemented and added the company's logo to my website.
+Regarding The colour choice in the website i choose the background colour to be mainly green beacuse It matched the colour of the company logo, this also relates to the client requirements because I implemented and added the company's logo to my website. When it came to the colour of the text I only used black and white founts.
+
+Background colour use:
+
+![image](https://github.com/user-attachments/assets/88b54260-9c45-4098-9aa6-7528283e0720)
+
 
 What I use:
 
