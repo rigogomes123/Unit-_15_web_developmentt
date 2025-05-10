@@ -299,6 +299,10 @@ What I used:
 
 imagery:
 
+Regarding the images used in the website all of them were already provided to me in the required files section in the classroom all I had to do was download and adjust their size and location when designing my website.In summary I downaled and inserted them to my website I did not use any external images.
+
+Images used:
+
 User experience(UX):
 
 The simple and modern design of the website created with the user expreince and also client requiremnets in mind, made the website very easy to use, additionly the responsove features ensured a very smooth browsing expereince for any device that it is menat to be run on. Another aspect I would like to mention is where I got my inspiration from which was from another website which I had looked at.
@@ -306,5 +310,18 @@ The simple and modern design of the website created with the user expreince and 
 Functionality and features:
 
 The main reason that the website was produced was to meet the client requiremnets, the features include an informative webpages which explain each quiery that user wants with some pages contain detail if neccesary whereas other contain simple and self explnatory detail.
+
+Main/Home Page:
+
+Careers Page:
+
+About Us:
+
+Daniel Leroy Page:
+
+Li Chang Page:
+
+Rosa DeCastello Page:
+
 
 
