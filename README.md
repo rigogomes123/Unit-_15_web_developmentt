@@ -296,13 +296,23 @@ Colour scheme choice:
 
 Regarding The colour choice in the website i choose the background colour to be mainly green beacuse It matched the colour of the company logo, this also relates to the client requirements because I implemented and added the company's logo to my website. When it came to the colour of the text I only used black and white founts.
 
-Background colours  i used:
+Background colours i used (I decied to use 3 different shades of green):
+
+Background colour:
 
 ![image](https://github.com/user-attachments/assets/88b54260-9c45-4098-9aa6-7528283e0720)
 
+boarder colour:
+
+![image](https://github.com/user-attachments/assets/2a7ad550-592d-4db2-8000-c588dce1f02c)
+
+bottom-boarder colour:
+
+![image](https://github.com/user-attachments/assets/61e33178-2fce-472a-b671-ddf0e5124222)
 
 
-What I use:
+In summary I used 3 different shades of green in order to give a the whole website a stable way of structure, such as where each section is located at it being the begging and end for an example.
+
 
 
 Typography:
@@ -311,13 +321,40 @@ Inter is a modern, clean informal that is optimised for screen reading, which is
 
 What I used:
 
+![image](https://github.com/user-attachments/assets/0e3f8fd5-7073-4ed6-b501-a5759cb760b7)
 
+![image](https://github.com/user-attachments/assets/725ad84f-1e94-4a08-bda0-0391dbd688c0)
+
+![image](https://github.com/user-attachments/assets/7e399a22-d55f-414a-9e92-47f33b9f00fd)
 
 imagery:
 
 Regarding the images used in the website all of them were already provided to me in the required files section in the classroom all I had to do was download and adjust their size and location when designing my website.In summary I downaled and inserted them to my website I did not use any external images.
 
 Images used:
+
+Daniel Leroy image:
+
+![image](https://github.com/user-attachments/assets/c6096581-63e7-48a9-abb1-3643ced7ef18)
+
+Li Chang image:
+
+![image](https://github.com/user-attachments/assets/05cc8869-2bd0-474b-a934-0a6fb0999360)
+
+Rosa DeCastello image:
+
+![image](https://github.com/user-attachments/assets/a83fe594-36f5-4e3f-8a19-a68db9308723)
+
+
+Company logo image:
+
+![image](https://github.com/user-attachments/assets/3513d094-0f25-4c3d-8736-4da9831a8fa2)
+
+The Ofice image:
+
+![image](https://github.com/user-attachments/assets/1b501759-c5d3-4afa-88db-b451a2c18017)
+
+
 
 User experience(UX):
 
