@@ -415,9 +415,39 @@ Optimisation:
 
 Firstly for the optimisation step I decided to acknowledge the feedback I recevied from my classmates, the first feedback was to reduce the number of webpages, I had multiple webpages such as "Our Services", "Case Studies", "Careers", "Insights","About Us" and "Get in Touch". I removed all of those pages and just left "About Us" and "Careers" Pages this way it reduced the complixity on my website and make it simpler for user to naviage.
 
+Before: 
+
+![image](https://github.com/user-attachments/assets/08321c13-5eef-4a70-ac0f-dc38b44e5c3d)
+
+
+After:
+
+![image](https://github.com/user-attachments/assets/d5ab8c7b-3c9d-48a9-9e4a-b777ed264ee6)
+
+
 Secoundly I recognised I mistake I had committed which was the name of one of the trainees I had spelled his name as "Leroy Daniel" and it should of have been "Daniel Leroy", Overall it was a quick and easy fix.
+
+Before:
+
+![image](https://github.com/user-attachments/assets/d5ee56ef-d198-439c-8f70-27e0518f79bc)
+
+After:
+
+![image](https://github.com/user-attachments/assets/f8cb80a4-eb1d-4a2b-bd92-b0decd78925f)
+
 
 Lastly after receiving feedback from my secound classmate which I pointed out a clear requirement which I had left out which was to add links to web development course. Thankfully my classmate had picked this out and I had complete forgot to implment this to my other website,but however i mangaed to add to my last website.
 
+Before:
+
+No webpage was created.
+![image](https://github.com/user-attachments/assets/d93cbeb9-c307-4631-88a5-cbb67889800d)
 
 
+After:
+
+![image](https://github.com/user-attachments/assets/9e8da2b3-7d3d-4c6c-890c-1f8395af8912)
+
+![image](https://github.com/user-attachments/assets/85adaa04-7067-49ff-8216-665fa9b22859)
+
+![image](https://github.com/user-attachments/assets/9732b208-a0f0-4b52-9124-f476400f4709)
