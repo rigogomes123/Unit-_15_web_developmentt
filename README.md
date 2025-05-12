@@ -411,6 +411,12 @@ Responsive and Accesbile: The layout and accessible features for all user such a
 
 Professional and modern: Clean design using HTML, CSS and JavaScript to reflect the technical nature of the company.
 
+Optimisation:
+
+Firstly for the optimisation step I decided to acknowledge the feedback I recevied from my classmates, the first feedback was to reduce the number of webpages, I had multiple webpages such as "Our Services", "Case Studies", "Careers", "Insights","About Us" and "Get in Touch". I removed all of those pages and just left "About Us" and "Careers" Pages this way it reduced the complixity on my website and make it simpler for user to naviage.
+
+Secoundly I recognised I mistake I had committed which was the name of one of the trainees I had spelled his name as "Leroy Daniel" and it should of have been "Daniel Leroy", Overall it was a quick and easy fix.
+
 
 
 
