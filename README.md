@@ -375,7 +375,20 @@ How it met user needs:
 
 (1) Company profile:
 
-What it includes: It includes the requiremnets which were given to me in the requiremnets 
+What it includes: It includes the requiremnets which were given to me in the requiremnets files such as when the company was foundeded.mission,headquarters,The growth which is over 15 years,client base,special focus,team,talent recruitment,training available and the contact details.
+
+User needs met: User are curios about who\what they are applying to/for.This fosters trust and aids applicants in determing whether they share the company's values and ovjectives.
+
+(2) Profiles of existing Trainee Web Developers:
+
+What it includes: Short bios and images of their face.
+
+User need met: Encourages candidates to apply by allowing them to connect with others in comparable roles and observe career advancement.
+
+(3) Job Specifications and required Qualifiactions:
+
+What it includes: 
+
 
 
 
