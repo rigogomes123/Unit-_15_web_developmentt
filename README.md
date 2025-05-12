@@ -364,17 +364,19 @@ Functionality and features:
 
 The main reason that the website was produced was to meet the client requiremnets, the features include an informative webpages which explain each quiery that user wants with some pages contain detail if neccesary whereas other contain simple and self explnatory detail.
 
-Main/Home Page:
+Explanation of how it met client requiremnets and it was fit for its purpose:
 
-Careers Page:
 
-About Us:
+Purpose of the web section:
 
-Daniel Leroy Page:
+By presenting Hot beans Web as an attractive company.This sector aims to draw in and hire recentlt qualified web delevopers. For people which are actively looking for a career in web developement after completing training or qualifications, It offers appropriate,intresting and easili available material.
 
-Li Chang Page:
+How it met user needs:
 
-Rosa DeCastello Page:
+(1) Company profile:
+
+What it includes: It includes the requiremnets which were given to me in the requiremnets 
+
 
 
 
