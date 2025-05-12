@@ -399,5 +399,18 @@ User need Met: The apllication form has section which the user can input all the
 
 (5) Links to Web Development Courses:
 
+What it includes: Not implemented, but I plan to implments it to my optimised version.
+
+User need Met: Not implemented.
+
+Fit For Purpose:
+
+User Centered: Designed for aspiring developers who recently finished traing and are looking for a job.
+
+Responsive and Accesbile: The layout and accessible features for all user such as text and readable fonts.
+
+Professional and modern: Clean design using HTML, CSS and JavaScript to reflect the technical nature of the company.
+
+
 
 
