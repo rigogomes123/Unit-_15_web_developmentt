@@ -387,9 +387,17 @@ User need met: Encourages candidates to apply by allowing them to connect with o
 
 (3) Job Specifications and required Qualifiactions:
 
-What it includes: 
+What it includes: Clear job descriptions that include the neccessary qualifications ,work hours(part time or full time) benefits, expected abilities such as CSS,HTML and JavaScript and, if relevant, the salary range.
 
+User Need Met: Prevents misunderstanding and provides clear expectations, User will be able to easily determine their qualifications and areas for improvemnets.
 
+(4) Online application form:
+
+What it includes: Fields for personal details such as full name, email adress, a section to upload the cv and a final section asking the user why they want to join Hot Beans Web.
+
+User need Met: The apllication form has section which the user can input all the neccesary information which is asked.
+
+(5) Links to Web Development Courses:
 
 
 
