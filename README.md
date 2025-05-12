@@ -417,6 +417,7 @@ Firstly for the optimisation step I decided to acknowledge the feedback I recevi
 
 Secoundly I recognised I mistake I had committed which was the name of one of the trainees I had spelled his name as "Leroy Daniel" and it should of have been "Daniel Leroy", Overall it was a quick and easy fix.
 
+Lastly after receiving feedback from my secound classmate which I pointed out a clear requirement which I had left out which was to add links to web development course. Thankfully my classmate had picked this out and I had complete forgot to implment this to my other website,but however i mangaed to add to my last website.
 
 
 
