@@ -436,7 +436,7 @@ After:
 ![image](https://github.com/user-attachments/assets/f8cb80a4-eb1d-4a2b-bd92-b0decd78925f)
 
 
-Lastly after receiving feedback from my secound classmate which I pointed out a clear requirement which I had left out which was to add links to web development course. Thankfully my classmate had picked this out and I had complete forgot to implment this to my other website,but however i mangaed to add to my last website.
+Thirdly after receiving feedback from my secound classmate which I pointed out a clear requirement which I had left out which was to add links to web development course. Thankfully my classmate had picked this out and I had complete forgot to implment this to my other website,but however i mangaed to add to my last website.
 
 Before:
 
@@ -451,3 +451,8 @@ After:
 ![image](https://github.com/user-attachments/assets/85adaa04-7067-49ff-8216-665fa9b22859)
 
 ![image](https://github.com/user-attachments/assets/9732b208-a0f0-4b52-9124-f476400f4709)
+
+Lastly Thank you page:
+
+
+
