@@ -440,7 +440,7 @@ Thirdly after receiving feedback from my secound classmate which I pointed out a
 
 ## Before:
 
-No webpage was created.
+The learn webpage was not created at the time.
 ![image](https://github.com/user-attachments/assets/d93cbeb9-c307-4631-88a5-cbb67889800d)
 
 
@@ -451,6 +451,8 @@ No webpage was created.
 ![image](https://github.com/user-attachments/assets/85adaa04-7067-49ff-8216-665fa9b22859)
 
 ![image](https://github.com/user-attachments/assets/9732b208-a0f0-4b52-9124-f476400f4709)
+
+The optimisation which I implemneted was the learn webpage with the features which I had missed out from the requiremenst files.I implemnest a HTML link which leads to The w3schools page so that the user can access and learn about html, I did the same thing for CSS Styling and JavaScript.
 
 ## Lastly Thank you page:
 
