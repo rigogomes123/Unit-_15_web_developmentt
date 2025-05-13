@@ -467,4 +467,21 @@ The new website section's design priorutises user involvement and clarity. Among
 
  #### Navigation:
 
- 
+ Users effortlessly navigate between parts, such as application forms, job ads, and company infomration, thanks to an easy to understand navigation framework.
+
+ #### Brand Consistency:
+
+The design complies to Hot Beans Web's branding, making good use of the company's colours,typography and logo placement.
+
+#### Visual Hierachy:
+
+In a logical and visually appealing way, the layout gives priority to the application form, job specifications, and trainee web developers profiles and the company profile
+
+Areas for improvemnet incldue implementing a search bar engine which can enhacne resourcefulness and align with the site's goal of being able to attract qualified developers.
+
+### Development Evaluation:
+
+The development process include these standards.
+
+HTML and CSS: 
+
