@@ -534,7 +534,8 @@ Although the new Hot Beans Web section's design, optimisation are succesful, the
 
 # shown individual responsibility, effevtive time-mangement in your design(How I planned and manged time to meet targets):
 
+To complete this activity I decided to create a gantt chart because it can set clear taks, each task is visually mapped out alongside a timeline. The chart displays start and end dates for each task, which enables to me plan ahead and allocate my time effectively.Futhermore it ehances progress tracking, as taks are completed i can mark them off on the Gantt chart, this can help in keeping track of what has been done and can also provide a great visual presentation. Overall I this was the best way show my resposibility and manage my time and planning effectively.
 
-
+read_me_asset/GanttChart.pdf
 
 
