@@ -2,13 +2,7 @@
 
 # Introduction:
 
-
-
-
-
-
-
-
+During My Hot Beans Web training, I've been asked to create a new page on the company site. The use of this page is to attract new web developers by showcasing the company, current trainees, job openings, and providing and online an online applicaion form. I'll also include links to useful web development courses. The peoject will involve creating and building the webpage, and refining it according to feedback. This will enable me to work on my web development skils while fullfilling the company's requirements for the recruitment potential employeees.
 
 ## WireFrame:
 
