@@ -453,4 +453,18 @@ The optimisation which I implemneted was the learn webpage with the features whi
 
 # Evaluation of the optimised design against the client requirements:
 
+### introduction:
 
+The design,development, and optimisation of the recently component of the Hot Beans Web company's website are all throughly and fairly assessed in this evaluation. The evaluation will cover how the optimised website meets client requirements.
+
+### Design Evaluation:
+
+The new website section's design priorutises user involvement and clarity. Among the important design concepts used are:
+
+ #### responsiveness:
+
+ Since the website is entirely responsive,it can be accessed on a variety of devices,such as smartphones,tablets, and PCs.
+
+ #### Navigation:
+
+ 
