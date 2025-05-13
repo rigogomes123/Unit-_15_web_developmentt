@@ -12,23 +12,23 @@ Introduction:
 
 WireFrame:
 
-# Home page:
+## Home page:
 
 <img width="444" alt="image" src="https://github.com/user-attachments/assets/d5c539ce-83fb-4b0f-9cf3-7ab7b85cf8b3" />
 
-Careers Page:
+## Careers Page:
 
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/0e143324-406c-4480-9caf-c0fb53959696" />
 
-Insights Page:
+## Insights Page:
 
 <img width="463" alt="image" src="https://github.com/user-attachments/assets/13f754c2-ef00-4110-a679-f867843e9999" />
 
-Li Chang page:
+## Li Chang page:
 
 <img width="409" alt="image" src="https://github.com/user-attachments/assets/abd8b807-50e6-4af9-8a2d-65beb22bb1ba" />
 
-Rosa DeCastello profile:
+ ## Rosa DeCastello profile:
 
 <img width="455" alt="image" src="https://github.com/user-attachments/assets/c89c650e-a7fc-4060-806c-9c2ed93f61cf" />
 
