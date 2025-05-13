@@ -483,5 +483,40 @@ Areas for improvemnet incldue implementing a search bar engine which can enhacne
 
 The development process include these standards.
 
-HTML and CSS: 
+HTML and CSS: The structure is semantically coreect with improved accessibility.
+
+JavaScript Integration: I did not use javaScipt to its full exctend by i did in areas such as the online application form.
+
+Back end Integration: Forms are connected to back end systm which can handle the data submission.
+
+The absence of links to web development courses is a noticebale flaw that lessens the site's completeness even through the code is well structured. This feature would improve the site's ability to assist aspiring developers.
+
+### Optimisation Evaluation:
+
+To make sure that the performance is kept high, the following techniques were applied:
+
+Imgage optimisation: All the images which I used were compressed without loss of quality in order to improve load times.
+
+Additional webpage: I implemented a new webpage called learn which I used to meet a client requiremnet (add links to web developers course).
+
+### Target Audience:
+
+The main audience for this site are people who have finished web development training an are looking for work.This site effectively:
+
+##### Highlits Growth:
+
+The profiles of trainees developers enhace the care progression within Hot Beans Web.
+
+#### Facilitates Application:
+
+The online application form is able to make the whole application process much simpler.
+
+#### Showcases Opportunities:
+
+Cleaar avenues for applicants are provided by comprehensive job descriptions and credentials.
+
+
+
+
+
 
