@@ -532,7 +532,7 @@ Effective time management, project planning, and flixibility were displayed thro
 Although the new Hot Beans Web section's design, optimisation are succesful, there is still opportunity for improvement. The site's performance and appeal to its target audience would be would be improved by fixing the lack of links to web development courses,putting deeper optimisation into practise, and taking into account more interactive features.
 
 
-# shown individual responsibility, effevtive time-mangement in your design(How I planned and manged time to meet targets):
+## show individual responsibility, effevtive time-mangement in your design(How I planned and manged time to meet targets):
 
 To complete this activity I decided to create a gantt chart because it can set clear taks, each task is visually mapped out alongside a timeline. The chart displays start and end dates for each task, which enables to me plan ahead and allocate my time effectively.Futhermore it ehances progress tracking, as taks are completed i can mark them off on the Gantt chart, this can help in keeping track of what has been done and can also provide a great visual presentation. Overall I this was the best way show my resposibility and manage my time and planning effectively.
 
@@ -540,3 +540,52 @@ read_me_asset/GanttChart.pdf
 
 (The gantt chart is atteched to a folder called read_me_asset)
 
+## How I revied and responded to outcomes including the use of feedback from other:
+
+Regarding this activity I creare Google form questionnaire, because it provides a simple and effective platform to gather structure feedback, for reason such as:
+
+### Oragnised Feeback collection
+
+### Customised questions
+
+### Real time updates
+
+### Easy to share
+
+### Privacy and annymity.
+
+Here is the Google form questionnaire i created:
+
+#### Question 1:
+
+![image](https://github.com/user-attachments/assets/5382d1b7-19ba-4714-aacf-ba703c5b5f79)
+
+#### Question 2:
+
+![image](https://github.com/user-attachments/assets/3437e70d-e8be-47c3-8508-71c5177c32dc)
+
+#### Question 3:
+
+![image](https://github.com/user-attachments/assets/29834357-de55-4674-aad8-0fe34bd489bc)
+
+#### Question 4:
+
+![image](https://github.com/user-attachments/assets/a8467f4c-af50-4b3e-8796-671e858fcf77)
+
+
+#### Question 5:
+
+![image](https://github.com/user-attachments/assets/76f19685-2324-45ef-b632-4b2d95844b1d)
+
+
+#### Question 6:
+
+![image](https://github.com/user-attachments/assets/c51cf290-a2f7-401e-a050-2b4dc5aead30)
+
+#### Question 7:
+
+![image](https://github.com/user-attachments/assets/056c349d-c6b2-45ef-b10a-dc4ee7fa7ea1)
+
+#### Question 8:
+
+![image](https://github.com/user-attachments/assets/dfebeef5-c7f2-4f72-9008-5ab6b0dba6e3)
