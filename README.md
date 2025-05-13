@@ -448,9 +448,9 @@ The learn webpage was not created at the time.
 
 The optimisation which I implemneted was the learn webpage with the features which I had missed out from the requiremenst files.I implemnest a HTML link which leads to The w3schools page so that the user can access and learn about html, I did the same thing for CSS Styling and JavaScript.
 
-## Lastly Thank you page:
+### Lastly Thank you page:
 
 
-Evaluation of the optimised design against the client requirements:
+# Evaluation of the optimised design against the client requirements:
 
 
