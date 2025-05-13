@@ -183,7 +183,7 @@ Acessibility Tesing: To confirm that the basic section accessibility works as st
 
 # Test Cases:
 
-TC01:
+### TC01:
 
 Description: To check if the company profile(home page), loads the home page.
 
@@ -191,7 +191,7 @@ Excepetd result: It loads the Home page.
 
 Actual result: It loads the homa page.
 
-TC02:
+### TC02:
 
 Description: To access the carress page.
 
@@ -199,7 +199,7 @@ Expected result: The careers page loads and all the links work properly.
 
 Actual result: The careers page loads and all the links work properly.
 
-TC03:
+### TC03:
 
 Description: To access/load the "Our servies "page .
 
@@ -207,7 +207,7 @@ Expected result: The "Our services " Page loads
 
 Actual result: The "Our servies" page DOES NOT load, and it doesn't work(the page is blank with no information)
 
-TC04:
+### TC04:
 
 Description: 
 
@@ -217,7 +217,7 @@ Expected result: Both of the options are viible and fully function.
 
 Actual result:  Both of the options are viible and fully function.
 
-TC05: 
+### TC05: 
 
 Description: Submit application from with valid input.
 
@@ -225,7 +225,7 @@ Excpected result: Application form is sent, alongside a "your application has be
 
 Actual result:  "This page isn't working" message is shown.
 
-TC06:
+### TC06:
 
 Description: User if able to fill the specification below the "Apply Now" section.
 
@@ -233,7 +233,7 @@ Expected result: The user is able to fill in the specification.
 
 Actual result: The user is able to fill in the information.
 
-TC07:
+### TC07:
 
 Description: To check if each trainee profile loads correctly.
 
@@ -241,7 +241,7 @@ Excpeted result: Each profile loads correctly showing images and their biograpgh
 
 Actual result:Each profile loads correctly showing images and their biograpghy
 
-TC08:
+### TC08:
 
 Description: All images have attributes
 
@@ -249,7 +249,7 @@ Expected result: Every image has the correct attributes
 
 Actual result: Worked as expected.
 
-TC09:  
+### TC09:  
 
 Description: Logo and header visibility 
 
@@ -257,7 +257,7 @@ Excepeted result: Consintly visbile on all pages
 
 Actual result: Worked as expected
 
-TC10:
+### TC10:
 
 Desciption: To check if hover effect works in the logo image.
 
