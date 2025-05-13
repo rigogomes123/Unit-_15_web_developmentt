@@ -538,4 +538,5 @@ To complete this activity I decided to create a gantt chart because it can set c
 
 read_me_asset/GanttChart.pdf
 
+(The gantt chart is atteched to a folder called read_me_asset)
 
