@@ -532,5 +532,9 @@ Effective time management, project planning, and flixibility were displayed thro
 Although the new Hot Beans Web section's design, optimisation are succesful, there is still opportunity for improvement. The site's performance and appeal to its target audience would be would be improved by fixing the lack of links to web development courses,putting deeper optimisation into practise, and taking into account more interactive features.
 
 
+# shown individual responsibility, effevtive time-mangement in your design(How I planned and manged time to meet targets):
+
+
+
 
 
