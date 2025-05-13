@@ -1,6 +1,6 @@
 # Unit-_15_web_development
 
-Introduction:
+# Introduction:
 
 
 
@@ -391,60 +391,60 @@ What it includes: Clear job descriptions that include the neccessary qualificati
 
 User Need Met: Prevents misunderstanding and provides clear expectations, User will be able to easily determine their qualifications and areas for improvemnets.
 
-(4) Online application form:
+## (4) Online application form:
 
 What it includes: Fields for personal details such as full name, email adress, a section to upload the cv and a final section asking the user why they want to join Hot Beans Web.
 
 User need Met: The apllication form has section which the user can input all the neccesary information which is asked.
 
-(5) Links to Web Development Courses:
+## (5) Links to Web Development Courses:
 
 What it includes: Not implemented, but I plan to implments it to my optimised version.
 
 User need Met: Not implemented.
 
-Fit For Purpose:
+# Fit For Purpose:
 
-User Centered: Designed for aspiring developers who recently finished traing and are looking for a job.
+### User Centered: Designed for aspiring developers who recently finished traing and are looking for a job.
 
-Responsive and Accesbile: The layout and accessible features for all user such as text and readable fonts.
+### Responsive and Accesbile: The layout and accessible features for all user such as text and readable fonts.
 
-Professional and modern: Clean design using HTML, CSS and JavaScript to reflect the technical nature of the company.
+### Professional and modern: Clean design using HTML, CSS and JavaScript to reflect the technical nature of the company.
 
-Optimisation:
+# Optimisation:
 
 Firstly for the optimisation step I decided to acknowledge the feedback I recevied from my classmates, the first feedback was to reduce the number of webpages, I had multiple webpages such as "Our Services", "Case Studies", "Careers", "Insights","About Us" and "Get in Touch". I removed all of those pages and just left "About Us" and "Careers" Pages this way it reduced the complixity on my website and make it simpler for user to naviage.
 
-Before: 
+## Before: 
 
 ![image](https://github.com/user-attachments/assets/08321c13-5eef-4a70-ac0f-dc38b44e5c3d)
 
 
-After:
+## After:
 
 ![image](https://github.com/user-attachments/assets/d5ab8c7b-3c9d-48a9-9e4a-b777ed264ee6)
 
 
 Secoundly I recognised I mistake I had committed which was the name of one of the trainees I had spelled his name as "Leroy Daniel" and it should of have been "Daniel Leroy", Overall it was a quick and easy fix.
 
-Before:
+## Before:
 
 ![image](https://github.com/user-attachments/assets/d5ee56ef-d198-439c-8f70-27e0518f79bc)
 
-After:
+## After:
 
 ![image](https://github.com/user-attachments/assets/f8cb80a4-eb1d-4a2b-bd92-b0decd78925f)
 
 
 Thirdly after receiving feedback from my secound classmate which I pointed out a clear requirement which I had left out which was to add links to web development course. Thankfully my classmate had picked this out and I had complete forgot to implment this to my other website,but however i mangaed to add to my last website.
 
-Before:
+## Before:
 
 No webpage was created.
 ![image](https://github.com/user-attachments/assets/d93cbeb9-c307-4631-88a5-cbb67889800d)
 
 
-After:
+## After:
 
 ![image](https://github.com/user-attachments/assets/9e8da2b3-7d3d-4c6c-890c-1f8395af8912)
 
@@ -452,7 +452,7 @@ After:
 
 ![image](https://github.com/user-attachments/assets/9732b208-a0f0-4b52-9124-f476400f4709)
 
-Lastly Thank you page:
+## Lastly Thank you page:
 
 
 Evaluation of the optimised design against the client requirements:
