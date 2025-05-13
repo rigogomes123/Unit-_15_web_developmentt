@@ -522,6 +522,11 @@ To ehnace appeeal, inetegrating the required which was to implement web developm
 
 The newly updated section offers a more organised and interesting experience than the website's prior iteraction. The "Learn" section with connections with connections to web development courses, a crucial components of the present design, was absent from a last iteration. This improvemnets improves visitors upskilling while supporting Hot Beans Web's goal of encouraging learning and development among aspiring developers.
 
+## Skills, performance, and Behabiour Reflection:
+
+Effective time management, project planning, and flixibility were displayed throughout the undertaking. The project exceeded timelines and upheld quality requirements thanks to regular self evaluation and modifications. My technical abilities in front end programming were improved by the project, especiaalu in JavaScript functionality and responsive design. It also pointed out areas that needed work, like more thorough optimisation methods and smooth intergration of other resources.
+
+
 ## Conclusion:
 
 Although the new Hot Beans Web section's design, optimisation are succesful, there is still opportunity for improvement. The site's performance and appeal to its target audience would be would be improved by fixing the lack of links to web development courses,putting deeper optimisation into practise, and taking into account more interactive features.
