@@ -50,9 +50,9 @@ During My Hot Beans Web training, I've been asked to create a new page on the co
 <img width="682" alt="image" src="https://github.com/user-attachments/assets/9d290f99-fd9b-4d38-874d-3432d9738116" />
 
 
-## website designs reviews:
+## Website designs reviews:
 
-I have asked my peer/class mate "Austin Ukawanna" for feedback in my design(wireframme and DFD):
+I have asked my peer/classmate "Austin Ukawanna" for feedback in my design(wireframme and DFD):
 
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/babe4245-6346-4647-921d-e1cbc4e7e57e" />
 
@@ -60,6 +60,11 @@ I have asked my peer/class mate "Austin Ukawanna" for feedback in my design(wire
 
 <img width="715" alt="image" src="https://github.com/user-attachments/assets/13617c3f-d158-40c5-a672-91a3e0f0310f" />
 
+Additionaly I also asked another classmate " Favour Ajiduah  "
+
+## The reponse:
+
+Based on the feedback I got back I changed my website to further meet the feedback and also the client needs I decided to changed my wirefram and my website from the feeback I have recived from my first classmate, but from my secound classmate I will do so in my optimised website.
 
 ## First website produced (before feedback):
 
