@@ -598,3 +598,9 @@ Here is the Google form questionnaire i created:
 #### Explanation:
 
 I was able to gather organised replies that are simple to examine and evaluate by developing a through a Google Forms questionnaire. In order to better satisfy my intended gaoals, it also ofeered chances to get input from others, which cab be utilised to ehance the questionnaire, add clarifications, and make changes. I was able to recognise patterns, comprehend the users viewpoints, and evaluate the questions efficiency by going over the responses. Feedback was incorporated to gurantee that it was understandable, interesting and also succesful in obtaining the desired information.
+
+# How I evaluated outcomes to help inform high quality and jutified recomendadtions and decisions
+
+### Questionnaire responses from x diffrent people:
+
+
