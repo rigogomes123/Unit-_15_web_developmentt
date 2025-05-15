@@ -544,15 +544,15 @@ read_me_asset/GanttChart.pdf
 
 Regarding this activity I creare Google form questionnaire, because it provides a simple and effective platform to gather structure feedback, for reason such as:
 
-### Oragnised Feeback collection
+##### Oragnised Feeback collection
 
-### Customised questions
+##### Customised questions
 
-### Real time updates
+##### Real time updates
 
-### Easy to share
+##### Easy to share
 
-### Privacy and annymity.
+##### Privacy and annymity.
 
 Here is the Google form questionnaire i created:
 
