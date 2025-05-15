@@ -56,15 +56,20 @@ During My Hot Beans Web training, I've been asked to create a new page on the co
 
 I have asked my peer/classmate "Austin Ukawanna" for feedback in my design(wireframme and DFD):
 
+###### What I sent:
+
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/babe4245-6346-4647-921d-e1cbc4e7e57e" />
 
-## The response:
+###### The response:
 
 <img width="715" alt="image" src="https://github.com/user-attachments/assets/13617c3f-d158-40c5-a672-91a3e0f0310f" />
 
 Additionaly I also asked another classmate " Favour Ajiduah  "
 
-## The reponse:
+##### What i sent and the reponse i recived:
+
+![image](https://github.com/user-attachments/assets/be05440a-453e-4c9e-97d2-16039472e371)
+
 
 Based on the feedback I got back I changed my website to further meet the feedback and also the client needs I decided to changed my wirefram and my website from the feeback I have recived from my first classmate, but from my secound classmate I will do so in my optimised website.
 
