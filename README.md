@@ -610,4 +610,37 @@ I was able to gather organised replies that are simple to examine and evaluate b
 
 ### Questionnaire responses from x diffrent people:
 
+# Evaluation of outcomes:
+
+##### This is how many People I have asked to complete my questionnaire:
+
+
+
+I asked a few people with different type of web design kwonledge question regarding my webpage Here is there response to the question:
+
+### Question 1:
+
+
+### Question 2:
+
+
+### Question 3:
+
+
+### Question 4:
+
+
+### Question 5:
+
+
+### Question 6:
+
+
+### Question 7:
+
+
+### Question 8:
+
+
+
 
