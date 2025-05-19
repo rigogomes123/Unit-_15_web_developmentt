@@ -648,7 +648,9 @@ After I had distributed my quetionnaire. I ben analysing the responses after I h
 * Common values or themes.
 
 
+### Sumary of my findings
 
+* grjgr
 
 
 
