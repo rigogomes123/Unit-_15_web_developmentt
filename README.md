@@ -650,7 +650,23 @@ After I had distributed my quetionnaire. I ben analysing the responses after I h
 
 ### Sumary of my findings
 
-* grjgr
+* Question 1
+
+If in any case many users report that the load time is slow, I will need to optimse my scrips,images and also server in order to speed up the homepage.
+  
+* Question 2
+
+If users complain about having trouble accessing the website, it may be a sign of issues with the menu organisation,infomration architecture, or unclear uses of links. I'd have to think about navigation bar to make things easier and to also ehance the category labelling.
+  
+* Question 3
+
+  
+* Question 4
+* Question 5
+* Question 6
+* Question 7
+* Question 8
+
 
 
 
