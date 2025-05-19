@@ -639,6 +639,19 @@ Overaal This were the main questioans I had asked myself if the users which woul
 I distributed The gogle forms uestioannire and website to a few of my close friends some which had It knowledge and were also working on this same assignmnet as me whislt other were not. I distrubuted the form through my college email.
 
 
+### anlyse the responses 
+
+After I had distributed my quetionnaire. I ben analysing the responses after I had gathered them, seacrhing for recurring themes, preferences and recoomendations. I took in account both qualitative such as open ended responeses and quantitative such as yes or no answer. Some of the crucail aspects I exmaine were:
+
+* Item 1
+* Item 2
+* Item 3
+
+
+
+
+
+
 ##### This is how many People I have asked to complete my questionnaire:
 
 
