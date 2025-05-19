@@ -612,6 +612,14 @@ I was able to gather organised replies that are simple to examine and evaluate b
 
 # Evaluation of outcomes:
 
+Creating  a section of the website that drwas in potential employees, mainly web developers was the main objective of my assignment. This section's effectiveness should be assessed using the following criteria:
+
+
+###### User involvment:
+
+Were the users of my website looking 
+
+
 ##### This is how many People I have asked to complete my questionnaire:
 
 
