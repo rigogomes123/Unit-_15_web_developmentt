@@ -660,12 +660,28 @@ If users complain about having trouble accessing the website, it may be a sign o
   
 * Question 3
 
-  
+It may indicate that the website's structure or seac capabilities aren't optimised if people repot they were unable to locate the information they were ooking for, It may be necessary to ehance seacrh tols, internal connections or classifications.
+
 * Question 4
+
+Complaints regaridng responsiveness may indicate problems with responsiveness on various screen sizes or mobile optimisation. this can indicate that te website requires more extensice testing and modifications for mobile views.
+  
 * Question 5
+
+This is a good result if the majority of people think the website is visualy appealing. To make the design more modern asn user friendly, I may need to change colour schemes, type prographics, or general layout in response to citicism.
+
 * Question 6
+
+if users have trouble understanding the content, it may be excessively complicated or disorganises. For easier redability, I might need to rework passages,make languages simpler, or use better heading and bullet points.
+
 * Question 7
+
+I will consider including more thorough descriptions, case studies, testimonials, or product specs if users might reommend making cals to action more obvious or iinclude FAQ section.
+
 * Question 8
+
+I'll look for common recommendatin in the open ended comments, such ading more interactive features, making price information more transparent, or speeding up load times. I'll specific improvement recommendationm from these responses
+
 
 
 
