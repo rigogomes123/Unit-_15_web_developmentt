@@ -617,7 +617,26 @@ Creating  a section of the website that drwas in potential employees, mainly web
 
 ###### User involvment:
 
-Were the users of my website looking 
+Were the users using the website in the way that it was supposed to be used, where they looking at every components, includin the application form, job discription and also the company profile.
+
+###### Usability:
+
+Could the users easily and simpy navigate to fing the information they required?.
+
+###### Conversion:
+
+Did the users use the application form to submit their applications?
+
+###### Feedback on content:
+
+Were the details in the job discriptions, profilkes and courses helpful and well received?
+
+
+Overaal This were the main questioans I had asked myself if the users which would use my website able to find the asnwers to, additioanly I also tested the website over and over to amke sure that I could asnwer these questions myself.
+
+### Distribution of the questionnnaire:
+
+I distributed The gogle forms uestioannire and website to a few of my close friends some which had It knowledge and were also working on this same assignmnet as me whislt other were not. I distrubuted the form through my college email.
 
 
 ##### This is how many People I have asked to complete my questionnaire:
