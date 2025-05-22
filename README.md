@@ -428,6 +428,12 @@ User need Met: Not implemented.
 
 # Optimisation:
 
+Third website produced for optimisation:
+
+https://drive.google.com/file/d/1DzGjYvALPqAsrrqfITcXtYzLooMEyN14/view?usp=sharing
+
+This website can also be fount in the assest folder "Unit_15_website_3"
+
 Firstly for the optimisation step I decided to acknowledge the feedback I recevied from my classmates, the first feedback was to reduce the number of webpages, I had multiple webpages such as "Our Services", "Case Studies", "Careers", "Insights","About Us" and "Get in Touch". I removed all of those pages and just left "About Us" and "Careers" Pages this way it reduced the complixity on my website and make it simpler for user to naviage.
 
 ## Before: 
