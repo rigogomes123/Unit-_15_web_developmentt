@@ -744,3 +744,5 @@ Some content was deemed unclear by a user, particularly in relation to product d
 Some users complained that some design aspects were dated, despite the overall favourable visual appeal. I plan to update the colour scheme, redesign the website, and test it with other target audiences in the future.
 
 * ####  Recommendation for naviagtion
+
+Some user are having trouvle, navigating the website, according to feedback. I'll add a navigation bar in the future, to make sure that crucial information is available with just one or two clicks.
