@@ -686,35 +686,49 @@ I'll look for common recommendatin in the open ended comments, such ading more i
 
 
 
-##### This is how many People I have asked to complete my questionnaire:
+##### I have asked 5 people to complete my questionnaire:
 
 
 
-I asked a few people with different type of web design kwonledge question regarding my webpage Here is there response to the question:
+I asked a few people with different type of web design kwonledge question regarding my webpage Here is their response to the question:
 
 ### Question 1:
+
+<img width="487" alt="image" src="https://github.com/user-attachments/assets/0955a3df-0a1e-495a-a422-c47bfe92c197" />
 
 
 ### Question 2:
 
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/fcf7d1c8-0bd0-4fa9-bf65-c52461373e36" />
+
 
 ### Question 3:
+
+<img width="466" alt="image" src="https://github.com/user-attachments/assets/a9dcdd8d-b4bf-411e-900c-759ce604b7ab" />
 
 
 ### Question 4:
 
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/f2c28bc2-6ac8-4b61-af56-119ee34478e3" />
+
 
 ### Question 5:
 
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/68d9120d-3d39-4923-8bee-30ef192e306a" />
 
 ### Question 6:
+
+<img width="484" alt="image" src="https://github.com/user-attachments/assets/7c072b76-df3e-48e2-b9e1-fd17ffffcdd0" />
 
 
 ### Question 7:
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/96b57938-54a4-4755-9a5d-a2becbeabf86" />
+
 
 ### Question 8:
 
+<img width="479" alt="image" src="https://github.com/user-attachments/assets/c384f869-ac0e-4635-bd49-65ce85a45453" />
 
 
 
