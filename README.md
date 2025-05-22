@@ -731,6 +731,16 @@ I asked a few people with different type of web design kwonledge question regard
 <img width="479" alt="image" src="https://github.com/user-attachments/assets/c384f869-ac0e-4635-bd49-65ce85a45453" />
 
 
-
 ## Justification based on responses:
 
+
+* ##### Recommmendation for content clarity:
+
+Some content was deemed unclear by a user, particularly in relation to product discriptions. To meet this reponse I would implemnet bullry points whenever possible, to simplify terminology, adnd dividing the information into manageable sections.
+
+
+* ##### Recommendation for Visual appeal:
+
+Some users complained that some design aspects were dated, despite the overall favourable visual appeal. I plan to update the colour scheme, redesign the website, and test it with other target audiences in the future.
+
+* ####  Recommendation for naviagtion
