@@ -75,6 +75,10 @@ Based on the feedback I got back I changed my website to further meet the feedba
 
 ## First website produced (before feedback):
 
+https://drive.google.com/file/d/1JxHpF26e5QhDs6J0n6PQuZkUstQ6LeEV/view?usp=sharing
+
+(It can also be found In the assets folder "unit_15_website")
+
 ## home page created(1st part):
 
 <img width="948" alt="image" src="https://github.com/user-attachments/assets/1fb475c6-907b-48f4-86bc-447655468026" />
@@ -164,6 +168,11 @@ A few minor changes were made for both the wireframe and the website:
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/d657862b-2277-436c-b62b-2b32c57302c2" />
 
 ## Secound website produced (after feedback was produced):
+
+https://drive.google.com/file/d/1raXHdn2cfrRORJ4bLGYdprvpyJqcPoDE/view?usp=sharing
+
+(It can also be fount in the assets folder "Unit_15_website_2")
+
 
 # Home page:
 
