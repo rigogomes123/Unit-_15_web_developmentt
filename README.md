@@ -77,7 +77,7 @@ Based on the feedback I got back I changed my website to further meet the feedba
 
 https://drive.google.com/file/d/1JxHpF26e5QhDs6J0n6PQuZkUstQ6LeEV/view?usp=sharing
 
-(It can also be found In the assets folder "unit_15_website")
+(It can also be found In the raed_me_asset folder "unit_15_website")
 
 ## home page created(1st part):
 
@@ -171,7 +171,7 @@ A few minor changes were made for both the wireframe and the website:
 
 https://drive.google.com/file/d/1raXHdn2cfrRORJ4bLGYdprvpyJqcPoDE/view?usp=sharing
 
-(It can also be fount in the assets folder "Unit_15_website_2")
+(It can also be fount in the raed_me_asset folder "Unit_15_website_2")
 
 
 # Home page:
@@ -432,7 +432,7 @@ Third website produced for optimisation:
 
 https://drive.google.com/file/d/1DzGjYvALPqAsrrqfITcXtYzLooMEyN14/view?usp=sharing
 
-This website can also be fount in the assest folder "Unit_15_website_3"
+This website can also be fount in the read_me_assest folder "Unit_15_website_3"
 
 Firstly for the optimisation step I decided to acknowledge the feedback I recevied from my classmates, the first feedback was to reduce the number of webpages, I had multiple webpages such as "Our Services", "Case Studies", "Careers", "Insights","About Us" and "Get in Touch". I removed all of those pages and just left "About Us" and "Careers" Pages this way it reduced the complixity on my website and make it simpler for user to naviage.
 
@@ -568,6 +568,11 @@ read_me_asset/GanttChart.pdf
 (The gantt chart is atteched to a folder called read_me_asset)
 
 ## How I revied and responded to outcomes including the use of feedback from other:
+
+The questionnaire I created:
+
+https://docs.google.com/forms/d/e/1FAIpQLScGejcDQAL3mAEng81NvjSJrgZRkuabSdv35nDIdIWHTTpdFw/viewform?usp=sharing&ouid=113539203092779159910
+
 
 Regarding this activity I creare Google form questionnaire, because it provides a simple and effective platform to gather structure feedback, for reason such as:
 
