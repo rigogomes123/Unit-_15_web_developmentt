@@ -732,3 +732,5 @@ I asked a few people with different type of web design kwonledge question regard
 
 
 
+## Justification based on responses:
+
